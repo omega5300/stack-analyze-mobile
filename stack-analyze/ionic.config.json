@@ -1,0 +1,7 @@
+{
+  "name": "stack-analyze",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
